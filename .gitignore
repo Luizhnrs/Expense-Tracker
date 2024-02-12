@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Expense-Tracker/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/Expense-Tracker/v17/.futdcache.v2
+/.vs/Expense-Tracker/v17/.suo
